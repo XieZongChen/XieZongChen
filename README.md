@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi I'm XieZongChen 👋
+
+a web front-end developer
+
+
 
 <!--
 **amadeus711/amadeus711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
