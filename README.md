@@ -13,10 +13,12 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)
+![vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
 
-![Vue.js](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue)
+![vuedotjs](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-
+![React](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=reactnative)
 
 
 <!--
