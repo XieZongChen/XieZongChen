@@ -1,8 +1,8 @@
 ## 👋 Hi I'm XieZongChen 
 
-✨ A web front-end developer who loves work and life ✨
+✨  A web front-end developer who loves work and life  ✨
 
-#### 📝 Info
+### 📝 Info
 
 - [🗒 - Blog](https://amadeus711.github.io/)
 - [✉️ - Email](mailto:xiezongchen_mail@126.com)
