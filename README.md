@@ -28,5 +28,5 @@
 <!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=amadeus711&layout=compact" /> -->
   </a>
 </p>
-[![XieZongChen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amadeus711&layout=compact)](https://github.com/amadeus711)
+[![XieZongChen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amadeus711&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ## 💻 &nbsp;Maintain Project -->
