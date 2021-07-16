@@ -29,6 +29,6 @@
   </a>
 </p>
 
-## 💻 
-[![naive-ui](https://github-readme-stats.vercel.app/api/pin/?username=amadeus711&repo=naive-ui)](https://github.com/TuSimple/naive-ui)
+## 💻 Project
+[![TuSimple/naive-ui](https://github-readme-stats.vercel.app/api/pin/?username=amadeus711&repo=TuSimple/naive-ui&show_owner=true)](https://github.com/TuSimple/naive-ui)
 
