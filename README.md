@@ -1,6 +1,6 @@
 ## 👋 Hi I'm XieZongChen 
 
-A web front-end developer who loves work and life
+A web front-end developer who loves work and life.
 
 ### 📝 Info
 
