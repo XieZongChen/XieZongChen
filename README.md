@@ -29,6 +29,4 @@
   </a>
 </p>
 
-## 💻 Project
-[![TuSimple/naive-ui](https://github-readme-stats.vercel.app/api/pin/?username=TuSimple&repo=naive-ui&show_owner=true&theme=react)](https://github.com/TuSimple/naive-ui)
-
+<!-- ## 💻 &nbsp;Maintain Project -->
