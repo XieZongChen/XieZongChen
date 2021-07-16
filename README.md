@@ -13,12 +13,12 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)
-![vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
+![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)
+![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
 
-![vuedotjs](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=reactnative)
+![ReactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
 
 
 <!--
