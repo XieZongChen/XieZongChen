@@ -1,4 +1,4 @@
-## Hi I'm XieZongChen 👋
+## 👋 Hi I'm XieZongChen 
 
 A web front-end developer who loves work and life
 
