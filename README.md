@@ -1,7 +1,7 @@
 # Hi I'm XieZongChen 👋
 
-- [🗒  Blog](https://amadeus711.github.io/)
-- [✉️  Email](mailto:xiezongchen_mail@126.com)
+- [🗒    Blog](https://amadeus711.github.io/)
+- [✉️    Email](mailto:xiezongchen_mail@126.com)
 
 ### 📝 My Skills
 
