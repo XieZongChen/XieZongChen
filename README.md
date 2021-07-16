@@ -7,31 +7,24 @@
 &nbsp;|&nbsp;
 [✉️ &nbsp;Email](mailto:xiezongchen_mail@126.com)
 
-### 👨🏻‍💻 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)
 ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
-
-<!--
-**amadeus711/amadeus711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨🏻‍💻 &nbsp;My Stats
+<p>
+  <a href="https://github.com/amadeus711">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amadeus711&show_icons=true&theme=radical" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amadeus711&theme=radical&layout=compact&exclude_lang=java+r" />
+  </a>
+</p>
