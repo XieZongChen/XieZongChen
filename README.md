@@ -1,9 +1,7 @@
 # Hi I'm XieZongChen 👋
 
-a web front-end developer
-
-- [✉️ Email](mailto:xiezongchen_mail@126.com)
-- [🗒 Blog](https://amadeus711.github.io/)
+- [🗒  Blog](https://amadeus711.github.io/)
+- [✉️  Email](mailto:xiezongchen_mail@126.com)
 
 ### 📝 我拿什么搬砖 (My Skills)
 
