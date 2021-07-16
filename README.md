@@ -3,7 +3,7 @@
 <p>👋 &nbsp;Hi I'm XieZongChen </p>
 <p>✨ &nbsp;A web front-end developer who loves work and life&nbsp; ✨</p>
 
-[🗒 &nbsp;Blog](https://amadeus711.github.io/)
+[📖 &nbsp;Blog](https://amadeus711.github.io/)
 &nbsp;|&nbsp;
 [✉️ &nbsp;Email](mailto:xiezongchen_mail@126.com)
 
@@ -28,3 +28,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amadeus711&show_icons=true&theme=react&layout=compact&hide=stars&count_private=true" />
   </a>
 </p>
+
+## 💻 
+[![naive-ui](https://github-readme-stats.vercel.app/api/pin/?username=amadeus711&repo=naive-ui)](https://github.com/TuSimple/naive-ui)
+
