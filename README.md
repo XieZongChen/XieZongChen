@@ -1,10 +1,11 @@
-## 💻 &nbsp; About Me
+## 💻 &nbsp;About Me
 
-👋 Hi I'm XieZongChen 
-✨  A web front-end developer who loves work and life  ✨
+<p>👋&nbsp;Hi I'm XieZongChen </p>
+<p>✨&nbsp;A web front-end developer who loves work and life&nbsp;✨</p>
 
-[🗒 &nbsp; Blog](https://amadeus711.github.io/)
-[✉️ &nbsp; Email](mailto:xiezongchen_mail@126.com)
+[🗒 &nbsp;Blog](https://amadeus711.github.io/)
+&nbsp;|&nbsp;
+[✉️ &nbsp;Email](mailto:xiezongchen_mail@126.com)
 
 ### 👨🏻‍💻 Skills
 
