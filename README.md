@@ -21,8 +21,8 @@
 ## 👨🏻‍💻 &nbsp;My Stats
 <p>
   <a href="https://github.com/amadeus711">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amadeus711&show_icons=true&layout=compact&hide=stars&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amadeus711&layout=compact" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amadeus711&show_icons=true&layout=compact&hide=stars&count_private=true" alt="XieZongChen's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadeus711&layout=compact" />
   </a>
 </p>
 
