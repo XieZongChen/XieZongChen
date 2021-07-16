@@ -29,4 +29,6 @@
   </a>
 </p>
 [![XieZongChen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amadeus711&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![XieZongChen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amadeus711)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- ## 💻 &nbsp;Maintain Project -->
