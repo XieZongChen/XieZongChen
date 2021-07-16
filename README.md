@@ -24,7 +24,7 @@
 ## 👨🏻‍💻 &nbsp;My Stats
 <p>
   <a href="https://github.com/amadeus711">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amadeus711&theme=bear&layout=compact&exclude_lang=java+r" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amadeus711&show_icons=true&theme=bear" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amadeus711&theme=react&layout=compact&exclude_lang=java+r" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amadeus711&show_icons=true&theme=react" />
   </a>
 </p>
