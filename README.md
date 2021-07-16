@@ -30,5 +30,5 @@
 </p>
 
 ## 💻 Project
-[![TuSimple/naive-ui](https://github-readme-stats.vercel.app/api/pin/?username=amadeus711&repo=naive-ui&show_owner=true)](https://github.com/TuSimple/naive-ui)
+[![TuSimple/naive-ui](https://github-readme-stats.vercel.app/api/pin/?username=TuSimple&repo=naive-ui&show_owner=true)](https://github.com/TuSimple/naive-ui)
 
