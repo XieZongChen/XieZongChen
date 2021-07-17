@@ -26,7 +26,7 @@
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amadeus711&rank=SSS,SS,S,AAA,AA,A&margin-w=8&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=amadeus711&rank=SSS,SS,S,AAA,AA,A&margin-w=8&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 
 <!-- ## 💻 &nbsp;Maintain Project -->
