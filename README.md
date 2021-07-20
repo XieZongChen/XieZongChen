@@ -19,12 +19,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 ## 👨🏻‍💻 &nbsp;My Stats
-<p>
-  <a href="https://github.com/amadeus711">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amadeus711&show_icons=true&layout=compact&hide=stars&count_private=true" alt="XieZongChen's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadeus711&layout=compact&count_private=true" />
-  </a>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amadeus711&show_icons=true&layout=compact&hide=stars&count_private=true" alt="XieZongChen's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadeus711&layout=compact&count_private=true" />
+</div>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=amadeus711&rank=SSS,SS,S,AAA,AA,A&margin-w=8&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) -->
 
