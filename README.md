@@ -1,6 +1,6 @@
 ## 🦸🏻‍♂️ &nbsp;About Me
 
-<p>👋 &nbsp;Hi I'm XieZongChen </p>
+<p>👋🏼 &nbsp;Hi I'm XieZongChen </p>
 <p>✨ &nbsp;A web front-end developer who loves work and life&nbsp; ✨</p>
 
 [📖 &nbsp;Blog](https://amadeus711.github.io/)
