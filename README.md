@@ -6,6 +6,8 @@
 [📖 &nbsp;Blog](https://amadeus711.github.io/)
 &nbsp;|&nbsp;
 [✉️ &nbsp;Email](mailto:xiezongchen_mail@126.com)
+&nbsp;|&nbsp;
+![visitors](https://visitor-badge.glitch.me/badge?page_id=amadeus711.visitor-badge)
 
 ## 🛠 &nbsp;Tech Stack
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;
