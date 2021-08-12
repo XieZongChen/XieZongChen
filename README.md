@@ -1,4 +1,4 @@
-## 🦸🏻‍♂️ &nbsp;About Me    ![visitors](https://visitor-badge.glitch.me/badge?page_id=amadeus711.visitor-badge)
+## 🦸🏻‍♂️ &nbsp;About Me
 
 <p>👋🏼 &nbsp;Hi I'm XieZongChen </p>
 <p>✨ &nbsp;A web front-end developer who loves work and life&nbsp; ✨</p>
@@ -24,6 +24,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=amadeus711&show_icons=true&layout=compact&hide=stars&count_private=true" alt="XieZongChen's GitHub Stats"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadeus711&layout=compact&count_private=true&hide=html" />
 </div>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=amadeus711.visitor-badge)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=amadeus711&rank=SSS,SS,S,AAA,AA,A&margin-w=8&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) -->
 
