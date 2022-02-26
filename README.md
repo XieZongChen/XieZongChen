@@ -1,7 +1,8 @@
 ## 🦸🏻‍♂️ &nbsp;About Me
 
 <p>👋🏼 &nbsp;Hi I'm XieZongChen </p>
-<p>✨ &nbsp;A web front-end developer who loves work and life&nbsp; ✨</p>
+<p>✨ &nbsp;A web front-end developer that shapes the future with code&nbsp; ✨</p>
+<p>✨ &nbsp;Welcome to follow me&nbsp; ✨</p>
 
 [📖 &nbsp;Blog](https://amadeus711.github.io/)
 &nbsp;|&nbsp;
