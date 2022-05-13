@@ -30,5 +30,8 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=amadeus711&rank=SSS,SS,S,AAA,AA,A&margin-w=8&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) -->
 
+## 🪧 &nbsp;Other
+
+目前就职于蓝湖（尽微致广），如果有需要内推，可以将简历投递到我的邮箱，主题注明内推。
 
 <!-- ## 💻 &nbsp;Maintain Project -->
