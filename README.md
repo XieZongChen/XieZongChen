@@ -4,7 +4,7 @@
 <p>✨ &nbsp;A web front-end developer that shapes the future with code&nbsp; ✨</p>
 <p>✨ &nbsp;Welcome to follow me&nbsp; ✨</p>
 
-[📖 &nbsp;Blog](https://amadeus711.github.io/)
+[📖 &nbsp;Blog](https://xiezongchen.github.io/)
 &nbsp;|&nbsp;
 [✉️ &nbsp;Email](mailto:xiezongchen_mail@126.com)
 
@@ -22,12 +22,12 @@
 ## 👨🏻‍💻 &nbsp;My Stats
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=amadeus711&show_icons=true&layout=compact&hide=stars&count_private=true" alt="XieZongChen's GitHub Stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadeus711&layout=compact&count_private=true&hide=html" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=XieZongChen&show_icons=true&layout=compact&hide=stars&count_private=true" alt="XieZongChen's GitHub Stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XieZongChen&layout=compact&count_private=true&hide=html" />
 </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=amadeus711.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=XieZongChen.visitor-badge)
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=amadeus711&rank=SSS,SS,S,AAA,AA,A&margin-w=8&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=XieZongChen&rank=SSS,SS,S,AAA,AA,A&margin-w=8&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!-- ## 💻 &nbsp;Maintain Project -->
