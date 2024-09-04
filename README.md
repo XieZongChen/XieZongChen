@@ -23,9 +23,9 @@
 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=XieZongChen&show_icons=true&layout=compact&hide=stars&count_private=true" alt="XieZongChen's GitHub Stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XieZongChen&layout=compact&count_private=true&hide=html" />
+  <!--   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XieZongChen&layout=compact&count_private=true&hide=html" /> -->
 </div>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=XieZongChen&rank=SSS,SS,S,AAA,AA,A&margin-w=8&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-<!-- ## 💻 &nbsp;Maintain Project -->
+<!-- ## 💻 &nbsp;MaintÏain Project -->
