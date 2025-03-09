@@ -32,4 +32,5 @@
 
 ## 📑 &nbsp;My Practice Project
 
-- [Use storybook for react component management](https://xiezongchen.github.io/practice-react/)
+- [Use storybook to manage react component](https://xiezongchen.github.io/practice-react/)
+- [Simple piano made using web api](https://xiezongchen.github.io/toy-piano/)
