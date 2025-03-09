@@ -35,3 +35,5 @@
 - [Use storybook to manage react component](https://xiezongchen.github.io/practice-react/)
 - [Simple piano made using web api](https://xiezongchen.github.io/toy-piano/)
 - [A simple react playground](https://xiezongchen.github.io/react-playground/)
+- [Use the graphical sound editing tool made by react Flow](https://xiezongchen.github.io/toy-audio-flow/)
+- [A simple low code edit](https://xiezongchen.github.io/toy-lowcode/)
