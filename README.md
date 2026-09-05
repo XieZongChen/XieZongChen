@@ -9,5 +9,5 @@
   <img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XieZongChen&theme=github" alt="XieZongChen's GitHub Stats"/>
   <img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XieZongChen&theme=github" alt="XieZongChen's Most Commit Language"/>
   <br/>
-  <img width="820" src="https://streak-stats.demolab.com/?user=XieZongChen&theme=github" alt="XieZongChen's GitHub Streak"/>
+  <img width="823" src="https://streak-stats.demolab.com/?user=XieZongChen&theme=github" alt="XieZongChen's GitHub Streak"/>
 </div>
