@@ -1,7 +1,7 @@
 ## 🦸🏻‍♂️ &nbsp;About Me
 
 <p>👋🏼 &nbsp;Hi I'm XieZongChen </p>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=A+web+front-end+developer+that+shapes+the+future+with+code;Welcome+to+follow+me+%E2%9C%A8&width=680&height=50&color=0366D6&size=20&vCenter=true" alt="typing animation"/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=A+web+front-end+developer+that+shapes+the+future+with+code;Welcome+to+follow+me+%E2%9C%A8&width=680&height=50&color=0366D6&size=20&vCenter=true&duration=3000" alt="typing animation"/>
 
 ## 👨🏻‍💻 &nbsp;GitHub Stats
 
