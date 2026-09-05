@@ -1,8 +1,7 @@
 ## 🦸🏻‍♂️ &nbsp;About Me
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+I'm+XieZongChen&width=400&height=50&color=0366D6&size=20&vCenter=true&duration=2000&pause=400&repeat=false" alt="Hi I'm XieZongChen"/>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=;A+web+front-end+developer+that+shapes+the+future+with+code&width=760&height=50&color=0366D6&size=20&vCenter=true&duration=2000&pause=400&repeat=false" alt="A web front-end developer"/>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=;;Welcome+to+follow+me+%E2%9C%A8&width=400&height=50&color=0366D6&size=20&vCenter=true&duration=2000&pause=400&repeat=false" alt="Welcome to follow me"/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+I'm+XieZongChen&width=400&height=50&color=0366D6&size=20&vCenter=true&duration=1800&repeat=false" alt="Hi I'm XieZongChen"/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=;A+web+front-end+developer+that+shapes+the+future+with+code;Welcome+to+follow+me+%E2%9C%A8&width=760&height=50&color=0366D6&size=20&vCenter=true&duration=2000" alt="typing animation"/>
 
 ## 👨🏻‍💻 &nbsp;GitHub Stats
 
